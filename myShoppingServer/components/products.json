@@ -1,0 +1,25 @@
+[{
+    "id":1,
+    "productName":"T-shirt",
+    "url":"p1.jpg",
+    "price":300,
+    "quantity":1
+},{
+    "id":2,
+    "productName":"Shirt",
+    "url":"p2.jpg",
+    "price":500,
+    "quantity":1
+},{
+    "id":3,
+    "productName":"MI Mobile",
+    "url":"p3.jpg",
+    "price":20000,
+    "quantity":1
+},{
+    "id":4,
+    "productName":"Mobile Case",
+    "url":"p4.jpg",
+    "price":200,
+    "quantity":1
+}]
